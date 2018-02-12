@@ -1,0 +1,10 @@
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Form1.resources
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.Cache
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+C:\Users\Guilherme Altmann\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.pdb

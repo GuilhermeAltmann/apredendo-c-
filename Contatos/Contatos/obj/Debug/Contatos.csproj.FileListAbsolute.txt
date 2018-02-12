@@ -1,0 +1,12 @@
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\bin\Debug\Contatos.exe.config
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\bin\Debug\Contatos.exe
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\bin\Debug\Contatos.pdb
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.csprojResolveAssemblyReference.cache
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.Form1.resources
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.Cache
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.exe
+c:\users\guilherme altmann\source\repos\Contatos\Contatos\obj\Debug\Contatos.pdb
+C:\Users\Guilherme Altmann\source\repos\Contatos\Contatos\bin\Debug\ContactDB.mdf
+C:\Users\Guilherme Altmann\source\repos\Contatos\Contatos\bin\Debug\ContactDB_log.ldf

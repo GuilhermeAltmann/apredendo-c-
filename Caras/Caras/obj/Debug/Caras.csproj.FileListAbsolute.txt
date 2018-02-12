@@ -1,0 +1,10 @@
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\bin\Debug\Caras.exe.config
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\bin\Debug\Caras.exe
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\bin\Debug\Caras.pdb
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.Form1.resources
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.Properties.Resources.resources
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.csproj.GenerateResource.Cache
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.exe
+C:\Users\Guilherme Altmann\source\repos\Caras\Caras\obj\Debug\Caras.pdb

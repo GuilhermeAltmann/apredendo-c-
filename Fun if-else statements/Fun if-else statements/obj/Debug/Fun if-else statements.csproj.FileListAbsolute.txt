@@ -1,0 +1,15 @@
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\bin\Debug\Fun if-else statements.exe.config
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\bin\Debug\Fun if-else statements.exe
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\bin\Debug\Fun if-else statements.pdb
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\MainWindow.g.cs
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\App.g.cs
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements_MarkupCompile.cache
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements_MarkupCompile.lref
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\MainWindow.baml
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.g.resources
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun_if_else_statements.Properties.Resources.resources
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.csproj.GenerateResource.Cache
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.exe
+C:\Users\Guilherme Altmann\source\repos\Fun if-else statements\Fun if-else statements\obj\Debug\Fun if-else statements.pdb
