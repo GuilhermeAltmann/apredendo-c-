@@ -3,6 +3,12 @@
 @section Styles{
     <link rel="stylesheet" href="~/lib/datatables/media/css/jquery.datatables.min.css" />
 }
+@if (TempData["Message"] != null) {
+    
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
     <div class="row">
         <div class="col card-block">
             <div class="card-header text-white bg-primary text-center h1">
