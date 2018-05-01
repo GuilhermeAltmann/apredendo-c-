@@ -10,7 +10,7 @@ namespace MyWebApp.Entidades
 
         public int Id { get; set; }
         public DateTime DataPedido { get; set; }
-        public ICollection<Pedido> Pedidos { get; set; }
+        public ICollection<ItemPedido> ItemPedidos { get; set; }
 
     }
 }
