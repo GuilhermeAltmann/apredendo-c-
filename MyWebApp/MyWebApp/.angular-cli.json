@@ -5,13 +5,12 @@
   },
   "apps": [
     {
-      "root": "src",
-      "outDir": "dist",
+      "root": "ClienteApp",
+      "outDir": "./wwwroot/ClienteApp/dist",
       "assets": [
         "assets",
         "favicon.ico"
       ],
-      "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
       "test": "test.ts",
