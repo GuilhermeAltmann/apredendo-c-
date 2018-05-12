@@ -1,25 +1,23 @@
 ﻿import { Component } from '@angular/core';
+import { DataServices } from '../servicos/dataService';
+import { OnInit } from '@angular/core/src/metadata/lifecycle_hooks';
+import { Produto } from '../modelos/produto';
 
 @Component({
     selector: 'lista-produto',
     templateUrl: "./listaProduto.component.html",
     styleUrls: []
 })
-export class ListaProduto {
+export class ListaProduto implements OnInit{
 
-    public produtos = [
-        {
-            titulo: "Primeiro Produto",
-            preco: 10
-        },
-        {
-            titulo: "Segundo Produto",
-            preco: 20
+    constructor(private data: DataServices) {
 
-        },
-        {
-            titulo: "Terceiro Produto",
-            preco: 30
-        },
-    ];
+        this.produtos = data.produtos;
+    }
+
+    ngOnInit(): void {
+        this.data.carregarProdutos()
+            .subscribe(() => this.produtos = this.data.produtos);
+    }
+    public produtos: Produto[];
 }

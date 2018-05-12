@@ -8,6 +8,9 @@
     <Content Remove="wwwroot\ts\produto.ts" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="ClienteApp\app\servicos\dataService.ts" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.1" />
@@ -16,6 +19,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="ClienteApp\app\servicos\dataService.ts" />
     <TypeScriptCompile Include="wwwroot\ts\principal.ts" />
     <TypeScriptCompile Include="wwwroot\ts\produto.ts" />
   </ItemGroup>

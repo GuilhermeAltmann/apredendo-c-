@@ -1,7 +1,13 @@
-﻿<script src="~/ClienteApp/dist/inline.bundle.js"></script>
-<script src="~/ClienteApp/dist/polyfills.bundle.js"></script>
-<script src="~/ClienteApp/dist/styles.bundle.js"></script>
-<script src="~/ClienteApp/dist/vendor.bundle.js"></script>
-<script src="~/ClienteApp/dist/main.bundle.js"></script>
+﻿@{
+    Layout = "~/Pages/_Layout.cshtml";
+}
+<div class="row">
+    <app-root-2></app-root-2>
 
-<app-root-2></app-root-2>
+    <script src="~/ClienteApp/dist/inline.bundle.js"></script>
+    <script src="~/ClienteApp/dist/polyfills.bundle.js"></script>
+    <script src="~/ClienteApp/dist/styles.bundle.js"></script>
+    <script src="~/ClienteApp/dist/vendor.bundle.js"></script>
+    <script src="~/ClienteApp/dist/main.bundle.js"></script>
+</div>
+
